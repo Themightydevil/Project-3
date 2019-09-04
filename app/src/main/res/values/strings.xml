@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Biology Quiz App</string>
+    <string name="welcome">Welcome to Biology Quiz App</string>
+    <string name="intro">We are so excited that you are here.\nLet\'s get started and check your knowledge.</string>
+    <string name="start_button">Start Quiz</string>
+    <string name="question_1">1. How many bones are there in the Spinal Column?</string>
+    <string name="question_2">2. Which gland in the body secretes the hormone cortisone?</string>
+    <string name="question_3">3. Which blood group did the first people belong to?</string>
+    <string name="question_4">4. What is the average heart-beat in a human body per minute?</string>
+    <string name="question_5">5. In the human body, nails are made up of</string>
+    <string name="question_6">6. Pituitary gland is situated in</string>
+    <string name="question_7">7. In which part of the human body is the smallest bone found?</string>
+    <string name="question_8">8. Cartilage present in body is</string>
+    <string name="question_9">9. Cell or tissue death within a living body is called as</string>
+    <string name="question_10">10. Which of the following is known as the voice box?</string>
+
+    <string name="answer_1_a">33</string>
+    <string name="answer_1_b">31</string>
+    <string name="answer_1_c">39</string>
+    <string name="answer_1_d">30</string>
+
+    <string name="answer_2_a">Adrenal</string>
+    <string name="answer_2_b">Pituitary</string>
+    <string name="answer_2_c">Thyroid</string>
+    <string name="answer_2_d">Hypothalamus</string>
+
+    <string name="answer_3_a">O</string>
+    <string name="answer_3_b">A</string>
+    <string name="answer_3_c">AB</string>
+
+    <string name="answer_4_a">72</string>
+    <string name="answer_4_b">82</string>
+    <string name="answer_4_c">62</string>
+    <string name="answer_4_d">65</string>
+
+    <string name="answer_5_a">Melanin</string>
+    <string name="answer_5_b">Keratin</string>
+    <string name="answer_5_c">Enamel</string>
+    <string name="answer_5_d">Cartilage</string>
+
+    <string name="answer_6_a">Base of the heart</string>
+    <string name="answer_6_b">Base of the brain</string>
+    <string name="answer_6_c">Neck</string>
+
+    <string name="answer_7_a">Wrist</string>
+    <string name="answer_7_b">Palm</string>
+    <string name="answer_7_c">Nose</string>
+    <string name="answer_7_d">Ear</string>
+
+    <string name="answer_8_a">Muscular Tissue</string>
+    <string name="answer_8_b">Epithelial Tissue</string>
+    <string name="answer_8_c">Connective Tissue</string>
+    <string name="answer_8_d">Germinal Tissue</string>
+
+    <string name="answer_9_a">Neutrophilia</string>
+    <string name="answer_9_b">Nephrosis</string>
+    <string name="answer_9_c">Necrosis</string>
+    <string name="answer_9_d">Neoplasia</string>
+
+    <string name="answer_10_a">Trachea</string>
+    <string name="answer_10_b">Pharynx</string>
+    <string name="answer_10_c">Epiglottis</string>
+    <string name="answer_10_d">Larynx</string>
+
+    <string name="submit">Submit</string>
+    <string name="enter_name">Enter your name here</string>
+    <string name="age_checker">I confirm I\'m above 10 years</string>
+    <string name="choose">Choose the correct option:</string>
+    <string name="email">Share score via e-mail</string>
+    <string name="score">Total Score: 0</string>
+    <string name="total_score">/10.</string>
+    <string name="answer_questions">Please answer the questions first</string>
+    <string name="dare">\u0020I dare you to compete against me. Lets see how much do you score. :)\n\nFrom,\n</string>
+    <string name="on_app">% on Biology Quiz App. </string>
+    <string name="i_scored">Hi, I scored\u0020</string>
+    <string name="email_subject">Challenge on Biology Quiz</string>
+    <string name="answer_first">Please answer the questions first.</string>
+    <string name="top_scorer">Congratulations, you achieved\u0020</string>
+    <string name="avg_scorer">Well tried, you achieved\u0020</string>
+    <string name="welcome_tag">Welcome\u0020</string>
+    <string name="check_scorer_lang">. Lets see how well you score.</string>
+    <string name="poor_scorer">Aaw, you only scored\u0020</string>
+    <string name="age_req">Sorry, you must be 10 or above</string>
+    <string name="enter_the_name">Please enter your name first</string>
+</resources>

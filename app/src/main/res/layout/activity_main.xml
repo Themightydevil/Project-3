@@ -1,0 +1,57 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    tools:context=".MainActivity"
+    tools:targetApi="26">
+
+
+        <TextView
+            android:id="@+id/app_name"
+            style="@style/TextStyle"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="50dp"
+            android:paddingBottom="30dp"
+            android:text="@string/welcome"
+            android:textSize="28sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/welcome_msg"
+            style="@style/TextStyle"
+            android:layout_below="@id/app_name"
+            android:text="@string/intro"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/enter_your_name"
+            style="@style/TextStyle"
+            android:layout_width="wrap_content"
+            android:layout_centerInParent="true"
+            android:autofillHints="@string/enter_name"
+            android:hint="@string/enter_name"
+            android:inputType="textCapWords" />
+
+        <CheckBox
+            android:id="@+id/age_checker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/enter_your_name"
+            android:layout_marginTop="16dp"
+            android:paddingStart="16dp"
+            android:paddingLeft="16dp"
+            android:paddingEnd="16dp"
+            android:paddingRight="16dp"
+            android:text="@string/age_checker"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/b1"
+            style="@style/ButtonStyle"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:onClick="nextActivity"
+            android:text="@string/start_button" />
+
+</RelativeLayout>
